@@ -1,0 +1,1 @@
+cmd_/home/jiexray/kernel_test/printk_test/printk_test.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jiexray/kernel_test/printk_test/printk_test.ko /home/jiexray/kernel_test/printk_test/printk_test.o /home/jiexray/kernel_test/printk_test/printk_test.mod.o
