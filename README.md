@@ -8,3 +8,4 @@ LDK materials and labs
 - Some labs to understand Linux Kernel
 
   1. [System Call](https://github.com/jiexray/Linux-Kernel-Study/tree/master/system_call)
+  2. [Kenel List Structure](https://github.com/jiexray/Linux-Kernel-Study/tree/master/data_structure/list)
