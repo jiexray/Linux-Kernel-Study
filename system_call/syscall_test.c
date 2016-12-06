@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <sys/types.h>
 
+
 int main(){
 	long ID1, ID2;
 	printf("SYS_getpid: %d\n", SYS_getpid);
