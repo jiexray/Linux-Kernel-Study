@@ -1,1 +1,0 @@
-cmd_/home/jiexray/Linux-Kernel-Study/data_structure/list/testlist.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jiexray/Linux-Kernel-Study/data_structure/list/testlist.ko /home/jiexray/Linux-Kernel-Study/data_structure/list/testlist.o /home/jiexray/Linux-Kernel-Study/data_structure/list/testlist.mod.o
