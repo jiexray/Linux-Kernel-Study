@@ -31,10 +31,10 @@
 
 * 4. Iterate the `struct idr` for all UIDs and its corresponding pointers.
 ```
-idr_for_each(&idp, print_student, NULL);
+	idr_for_each(&idp, print_student, NULL);
 ```
 
 * 5. destroy the `struct idr`
 ```
-idr_destroy(&idp);
+	idr_destroy(&idp);
 ```
